@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saleena1804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saleena1804" height="30" width="40" /></a>
+<a href="https://twitter.com/saleena1804" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1024px-X_logo.jpg" alt="saleena1804" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saleena-das-a57866202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saleena-das-a57866202/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_saleena_.aa?igsh=mtqznwfpnzdpdzrhnq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_saleena_.aa?igsh=mtqznwfpnzdpdzrhnq==" height="30" width="40" /></a>
 </p>
